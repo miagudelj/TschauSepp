@@ -449,7 +449,7 @@ public class GameView extends JDialog {
 
 	}
 
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		Player p1, p2, p3, p4;
 
 		p1 = new Player("Player 1");
@@ -468,5 +468,5 @@ public class GameView extends JDialog {
 
 		GameView g = new GameView(new JFrame(), true, game, new ImageFinder());
 		g.setVisible(true);
-	}
+	}*/
 }
